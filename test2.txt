@@ -1,1 +1,4 @@
 A new file
+Line two
+Line three
+Line four
