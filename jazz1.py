@@ -1,7 +1,8 @@
 def add(a: int, b: int) -> int:
     """This function adds two number and returns them"""
     print("hello jazzberry")
-    return -1
+    c = 1
+    return a + b + c
 
 
 if __name__ == '__main__':
