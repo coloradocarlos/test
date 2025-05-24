@@ -8,7 +8,7 @@ def fizz_buzz(max: int):
             emit_fizz_or_buzz = True
 
         if i % 5 == 0:
-            print("Buzz")
+            print("Buzz", end='')
             emit_fizz_or_buzz = True
 
         if emit_fizz_or_buzz is True:
